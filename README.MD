@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valbermedeiros&label=Profile%20views&color=b40e0e&style=flat-square" alt="valbermedeiros" /> </p>
 
-- 🔭 Atualmente atuando com Desevolvedor Full Stack (Java/Angular) **na Basis Tecnologia da Informação**
+- 🔭 Atualmente atuando com Desevolvedor Java **no Banco Original**
 
-- 🌱 Atualmente estou estudando **Arquitetura e desenvolvimento de Microservices com Spring e Front-end com React**
+- 🌱 Atualmente estou estudando **Arquitetura e desenvolvimento de Microservices com Spring**
 
 - 📫 Como me encontrar **dev.valbermedeiros@gmail.com**
 
